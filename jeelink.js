@@ -1014,7 +1014,7 @@ function defineLaCrosseDTH(id, name, stype){
                 "type":     "number",
                 "unit":     "g/m3",
                 "min":      0,
-                "max":      100,
+                "max":      110,
                 "read":     true,
                 "write":    false,
                 "role":     "value.humidity",
